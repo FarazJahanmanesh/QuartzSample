@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
+    <PackageReference Include="Quartz" Version="3.13.1" />
   </ItemGroup>
 
   <ItemGroup>
